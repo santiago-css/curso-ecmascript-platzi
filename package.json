@@ -1,0 +1,17 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso de ECMAScript con PLatzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "emascript",
+    "ES6+"
+  ],
+  "author": "Santiago Agudelo <david.agudelo@smartsoft.com.co>",
+  "license": "MIT",
+  "type": "module"
+}
